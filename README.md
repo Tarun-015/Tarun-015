@@ -13,5 +13,5 @@
 
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://www.linkedin.com/in/tarun-chaudhary-5812bb326)  
+[LinkedIn] : https://www.linkedin.com/in/tarun-chaudhary-5812bb326 
 📧 Email: tarunn1510@gmail.com  
