@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey there, I'm Tarun Chaudhary!  
 
-<!--
-**Tarun-015/Tarun-015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science Student** at **IIT Madras**  
+💻 **Tech Stack:** Python | C | Java | Web Development (HTML, CSS, JS)  
+📊 **Exploring:** SQL | Power BI | Data Science | AI & ML  
+🚀 **Passionate About:** Data, Analytics, Problem-Solving & Full-Stack Development  
+🎤 **Also Into:** Public Speaking | MUNs | Blog Writing  
 
-Here are some ideas to get you started:
+## 🔥 What I'm Up To  
+- Working on a **research paper**  
+- Exploring **data science tools & web development**  
+- Actively participating in **hackathons & research summits**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://www.linkedin.com/in/tarun-chaudhary-5812bb326)  
+📧 Email: tarunn1510@gmail.com  
