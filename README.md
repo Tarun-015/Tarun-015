@@ -4,7 +4,7 @@
 💻 **Tech Stack:** Python | C | Java | Web Development (HTML, CSS, JS)  
 📊 **Exploring:** SQL | Power BI | Data Science | AI & ML  
 🚀 **Passionate About:** Data, Analytics, Problem-Solving & Full-Stack Development  
-🎤 **Also Into:** Public Speaking | MUNs | Blog Writing  
+🎤 **Also Into:** Public Speaking | MUNs | Blog Writing | Poet
 
 ## 🔥 What I'm Up To  
 - Working on a **research paper**  
