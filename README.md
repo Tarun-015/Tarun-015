@@ -84,16 +84,6 @@ I enjoy working at the intersection of **Technology, Data, and Business** — tr
 - Problem Solving & Computational Thinking
 
 ---
-
-## 🔥 What I'm Up To
-
-- Building practical projects in Data Science, Analytics, and Machine Learning.
-- Exploring SQL, Power BI, statistical modelling, and AI applications.
-- Working on research-driven projects and analytical case studies.
-- Developing Python-based applications and exploring backend development.
-- Participating in hackathons, business competitions, and research summits.
-- Continuously learning through experimentation and real-world problem-solving.
-
 ## 🚀 Featured Projects
 
 Explore my repositories for projects involving:
